@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(layout="wide")
-st.title("📊 Warwickshire Crime Dashboard")
+st.title("Warwickshire Crime Dashboard")
 st.markdown("---")
 
 st.header("1. Monthly Trends of Top 5 Crime Types")
