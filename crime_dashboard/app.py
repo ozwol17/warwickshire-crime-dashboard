@@ -23,7 +23,7 @@ st.header("6. Monthly Crime Counts by Type")
 st.image("monthly_crime_counts_by_type.png", use_container_width=True)
 
 st.header("7. Monthly Crime Trends by Crime Type")
-st.image("monthly_crime_trends_by_crime_type.png", use_container_width=True)
+st.image("monthly_crime_type_in.png", use_container_width=True)
 
 st.header("8. Crime Type Distributions")
 st.image("crime_type_distributions.png", use_container_width=True)
